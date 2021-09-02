@@ -1,0 +1,6 @@
+#Ignoro los archivos .classpath y .project
+*.classpath
+*.project
+
+#Tambien ignoro la carpeta bin
+bin
